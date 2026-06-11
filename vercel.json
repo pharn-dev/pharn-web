@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/pharn-dev/pharn-oss",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://github.com/pharn-dev/pharn-oss",
+      "permanent": true
+    }
+  ]
+}
